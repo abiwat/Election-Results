@@ -9,7 +9,12 @@ Jefferson: 10.5% (38,855)
 Denver: 82.8% (306,055)
 Arapahoe: 6.7% (24,801)
 -------------------------
-Highest Voter Turn out: Denver
+Winner: Diana DeGette
+Winning Vote Count: 272,892
+Winning Percentage: 73.8%
+-------------------------
+
+County with the Highest Voter Turn Out: Denver
 Highest Vote Count for Denver: 306,055
 Percentage of Total Votes: 82.8%
 -------------------------
